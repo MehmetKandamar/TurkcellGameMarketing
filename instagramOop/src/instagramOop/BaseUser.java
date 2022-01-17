@@ -1,5 +1,6 @@
 package instagramOop;
 
+
 public class BaseUser {
 	private int id;
 	private String profileImage;

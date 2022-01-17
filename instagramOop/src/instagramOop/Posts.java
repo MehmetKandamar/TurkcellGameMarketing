@@ -1,5 +1,6 @@
 package instagramOop;
 
+
 public class Posts extends BasePage{
 	private String[] Posts;
 	

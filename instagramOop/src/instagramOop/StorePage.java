@@ -1,5 +1,6 @@
 package instagramOop;
 
+
 public class StorePage extends BasePage{
 	private String store;
 	private String detail;

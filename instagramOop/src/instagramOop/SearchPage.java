@@ -1,5 +1,6 @@
 package instagramOop;
 
+
 public class SearchPage extends BasePage{
 	private String search;
 	

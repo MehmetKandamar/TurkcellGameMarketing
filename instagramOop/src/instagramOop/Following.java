@@ -1,5 +1,6 @@
 package instagramOop;
 
+
 public class Following extends BaseUser{
 	private String[] directMessage;
 	private String[] stories;
